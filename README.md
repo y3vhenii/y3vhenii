@@ -1,5 +1,5 @@
 ![Blue and Yellow Modern Artisan Parties and Celebrations X-Frame Banner](https://user-images.githubusercontent.com/33880254/186797530-ccd861f0-1f2e-49a2-82f8-b40013c9f084.jpg)
-<h1> Hi there, I'm Yevhenii Ganusich 👋 </h1>
+<h1 text-align: center;> Hi there, I'm Yevhenii Ganusich 👋 </h1>
 #### I am a Software Developer 💻
 
 <!--
