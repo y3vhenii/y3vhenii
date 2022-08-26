@@ -1,4 +1,4 @@
-### <img src=”https://user-images.githubusercontent.com/33880254/186796076-02d0b862-5ce5-4f87-9230-db9e02167975.jpg" alt=”my banner”>
+![Violet Modern Discount Illustration Banner](https://user-images.githubusercontent.com/33880254/186796465-fe0fc97f-2744-459a-acb1-156f270a6659.jpg)
 ### Hi there 👋
 
 <!--
