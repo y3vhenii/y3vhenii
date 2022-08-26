@@ -2,7 +2,12 @@
 <h1 align="center"> Hi there, I'm Yevhenii Ganusich 👋 </h1>
 <h2 align="center"> I am a Software Developer 💻 </h2>
 <h2>👨🏻‍💻 I am currently working on: </h2>
-<ul><li> 📱 iOS game that allows Ukrainian kids to refresh their knowledge of Ukrainan language by matching item names to their image. Feel free to contribute or ask any questions. You can find the project <a href="https://github.com/y3vhenii/Ridna-Mova">here</a>.</li></ul>
+<ul>
+  <li> 📱 iOS game that allows Ukrainian kids to refresh their knowledge of Ukrainan language by matching item names to their image. Feel free to contribute or ask any questions. You can find the project <a href="https://github.com/y3vhenii/Ridna-Mova">here</a>.
+  </li>
+  <li> 🔧 Personal desktop assistant, using Python. It's functionality is still growing and every time I come up with a new feature, I make sure to add it. Feel free to explore this project <a href="https://github.com/y3vhenii/desktopAssistant">here</a>.
+  </li>
+</ul>
 
 <!--
 **y3vhenii/y3vhenii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
