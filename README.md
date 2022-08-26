@@ -8,6 +8,8 @@
   <li> 🔧 Personal desktop assistant, using Python. It's functionality is still growing and every time I come up with a new feature, I make sure to add it. Feel free to explore this project <a href="https://github.com/y3vhenii/desktopAssistant">here</a>.
   </li>
 </ul>
+<h2> 👨🏻‍🔧 My technical skills </h2>
+https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white
 
 <!--
 **y3vhenii/y3vhenii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
