@@ -1,6 +1,6 @@
 ![Blue and Yellow Modern Artisan Parties and Celebrations X-Frame Banner](https://user-images.githubusercontent.com/33880254/186797530-ccd861f0-1f2e-49a2-82f8-b40013c9f084.jpg)
 <h1 align="center"> Hi there, I'm Yevhenii Ganusich 👋 </h1>
-#### I am a Software Developer 💻
+<h2 align="center"> I am a Software Developer 💻 </h2>
 
 <!--
 **y3vhenii/y3vhenii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
