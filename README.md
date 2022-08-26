@@ -1,4 +1,4 @@
-![Violet Modern Discount Illustration Banner](https://user-images.githubusercontent.com/33880254/186796465-fe0fc97f-2744-459a-acb1-156f270a6659.jpg)
+![Blue and Yellow Modern Artisan Parties and Celebrations X-Frame Banner](https://user-images.githubusercontent.com/33880254/186797530-ccd861f0-1f2e-49a2-82f8-b40013c9f084.jpg)
 ### Hi there 👋
 
 <!--
