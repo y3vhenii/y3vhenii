@@ -1,7 +1,7 @@
 ![Blue and Yellow Modern Artisan Parties and Celebrations X-Frame Banner](https://user-images.githubusercontent.com/33880254/186797530-ccd861f0-1f2e-49a2-82f8-b40013c9f084.jpg)
 <h2> 🔭 I am currently working on: </h2>
 <ul>
-  <li> 📱 iOS game that allows Ukrainian kids to refresh their knowledge of Ukrainan language by matching item names to their image. Feel free to contribute or ask any questions. You can find the project <a href="https://github.com/y3vhenii/Ridna-Mova">here</a>.
+  <li> 📱 iOS game that allows English speaking users to learn Ukrainian by matching pictures to words displayed on the screen. You can find the project <a href="https://github.com/y3vhenii/Ridna-Mova">here</a>.
   </li>
   <li> 🔧 Personal desktop assistant, using Python. It's functionality is still growing and every time I come up with a new feature, I make sure to add it. Feel free to explore this project <a href="https://github.com/y3vhenii/desktopAssistant">here</a>.
   </li>
